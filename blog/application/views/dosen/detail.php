@@ -17,7 +17,7 @@
                 <th>Nama</th>
                 <th>Gender</th>
                 <th>Tempat Lahir</th>
-                <th>Tanggil Lahir</th>
+                <th>Tanggal Lahir</th>
                 <th>Pendidikan</th>
             </tr>
         </thead>

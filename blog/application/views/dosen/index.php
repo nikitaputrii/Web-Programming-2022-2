@@ -5,6 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dosen</title>
+    <script>
+        function hapusDosen(pesan){
+            if (confirm(pesan)) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
 </head>
 <?php
 $username = $this->session->userdata('username');
